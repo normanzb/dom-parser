@@ -1,0 +1,5 @@
+{
+  "name": "dom-parser",
+  "version": "0.0.0",
+  "description": "A quick shim for html parsing"
+}
